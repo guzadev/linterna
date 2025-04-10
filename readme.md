@@ -70,7 +70,16 @@ Esto generará `linterna.exe` en la carpeta `dist/`.
 
 ### 2. O descargarlo ya compilado
 
-👉 [Descargar linterna.exe](https://github.com/tuusuario/tu-repo/releases)
+👉 [Descargar linterna.exe](https://github.com/guzadev/linterna/releases)
+
+---
+
+## 📸 Vista previa
+
+<img src="img/linterna_01.jpeg" width="200">
+<img src="img/linterna_02.jpeg" width="200">
+<img src="img/linterna_03.jpeg" width="200">
+<img src="img/linterna_04.jpeg" width="200">
 
 ---
 
