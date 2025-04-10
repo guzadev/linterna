@@ -76,10 +76,12 @@ Esto generará `linterna.exe` en la carpeta `dist/`.
 
 ## 📸 Vista previa
 
-<img src="img/linterna_01.jpeg" width="200">
-<img src="img/linterna_02.jpeg" width="200">
-<img src="img/linterna_03.jpeg" width="200">
-<img src="img/linterna_04.jpeg" width="200">
+<p align="center">
+  <img src="img/linterna_01.jpeg" width="200" style="margin-right: 10px;">
+  <img src="img/linterna_02.jpeg" width="200" style="margin-right: 10px;">
+  <img src="img/linterna_03.jpeg" width="200" style="margin-right: 10px;">
+  <img src="img/linterna_04.jpeg" width="200">
+</p>
 
 ---
 
