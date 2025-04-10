@@ -1,0 +1,26 @@
+
+# Archivos y carpetas generados por PyInstaller
+build/
+dist/
+*.spec
+
+# Entorno virtual (si se usa)
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales
+*.swp
